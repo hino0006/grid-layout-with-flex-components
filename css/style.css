@@ -50,7 +50,7 @@ body {
 
 .emoji p{
     order: 2;
-    flex-grow: 1;
+    flex-grow: 1; 
 }
 
 .emoji a{
